@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/edu-common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/edu-common-config" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/edu-common-core" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/edu-common-parent" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/edu-common-web" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/edu-facade-user" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/edu-service-user" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/edu-web-boss" vcs="svn" />
+  </component>
+</project>
